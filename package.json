@@ -1,0 +1,11 @@
+{
+  "name": "sha1",
+  "version": "1.0.0",
+  "main": "sha256_partialCollision.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OliferDev",
+  "license": "MIT",
+  "description": "Create partial collision for SHA-256"
+}
